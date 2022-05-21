@@ -18,7 +18,8 @@ header {
     background-color:rgb(86 143 112 );
     height: 30px; 
     position: relative;
-    bottom: -80px;           
+    bottom: -80px; 
+    transform: rotate(180 deg)
 }
 .linea2 {
     height: 80px;
